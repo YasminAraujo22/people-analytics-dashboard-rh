@@ -1,7 +1,9 @@
 # people-analytics-dashboard-rh
 Análise de dados de RH focada em rotatividade e desempenho desenvolvida em Excel.
+
 📊 Dashboard de People Analytics - Gestão de RH
-📋 Sobre o Projeto
+
+📋 Sobre o Projeto: 
 Este projeto foi desenvolvido para analisar indicadores chave (KPIs) de uma empresa fictícia, focando em entender o comportamento do Turnover e o Desempenho por departamento.
 
 🛠️ Tecnologias Utilizadas
